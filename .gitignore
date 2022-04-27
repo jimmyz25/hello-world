@@ -1,0 +1,4 @@
+node_modules
+testDB copy.db
+package.js
+package-lock.json

@@ -1,0 +1,27 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "hello-world",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmyz25/hello-world.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmyz25/hello-world/issues"
+  },
+  "homepage": "https://github.com/jimmyz25/hello-world#readme",
+  "devDependencies": {
+    "better-sqlite3": "^7.5.1",
+    "electron": "^18.1.0"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
